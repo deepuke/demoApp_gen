@@ -20,3 +20,10 @@ Typescript, Webpack, Jest, npm, node
             logs <id|name>
             exec -it <id|name> /bin/bash 
         
+
+    docker-compose
+        create the common network and remove it while "down"
+        cmds :  docker-compose -f mongo.yaml up
+                docker-compose -f mongo.yaml down
+
+
