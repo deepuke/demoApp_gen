@@ -21,5 +21,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "mongodb": "^3.6.6"
   }
 }
